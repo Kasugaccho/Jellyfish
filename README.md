@@ -2,13 +2,13 @@
 
 This is the source code of jellyfish training game
 
-[![CC0](https://github.com/Kasugaccho/Jellyfish/blob/master/Android/button/button.Packaging/res/drawable-xxhdpi/ic_launcher.png "CC0")](http://creativecommons.org/publicdomain/zero/1.0/deed.ja)
+[![Jellyfish](https://github.com/Kasugaccho/Jellyfish/blob/master/Android/button/button.Packaging/res/drawable-xxhdpi/ic_launcher.png "Jellyfish")](https://play.google.com/store/apps/details?id=com.wanotaitei.jellyfish)
 
 ## License
 
 These codes are licensed under CC0.
 
-[![Jellyfish](http://i.creativecommons.org/p/zero/1.0/88x31.png "Jellyfish")](https://play.google.com/store/apps/details?id=com.wanotaitei.jellyfish)
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png "CC0")](http://creativecommons.org/publicdomain/zero/1.0/deed.ja)
 
 ## We want U!!
 
