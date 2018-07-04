@@ -8,10 +8,11 @@ These codes are licensed under CC0.
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png "CC0")](http://creativecommons.org/publicdomain/zero/1.0/deed.ja)
 
-## 開発者募集中
+## We want U!!
 
-開発に興味を持った方は、
+This project recruiting developers.
+
+Email
 wanotaitei@gmail.com
-または、
-Twitter: @wanotaitei
-まで返事をください。
+Twitter
+@wanotaitei
