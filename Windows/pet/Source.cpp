@@ -45,9 +45,10 @@ struct Pet {
 int32_t asMain()
 {
 	//(174,221,222)
-	MainControl as(u8"Jellyfish", Pos2(1920,1080),ColorRGB(0,30,67));
+	//0,30,67
+	MainControl as(u8"Jellyfish", Pos2(1920, 1080), ColorRGB(0, 0, 0));
 	//画像ファイル
-	const AnimeMainData bgA(5, asLoadTex(u8"P/BG/bg.png", 1));
+	//const AnimeMainData bgA(5, asLoadTex(u8"P/BG/bg.png", 1));
 	const AnimeMainData petA(32, asLoadTex(u8"P/Pet/pet.png", 8, 4));
 	const AnimeMainData foodA(1, asLoadTex(u8"P/Pet/food.png", 1));
 	const AnimeMainData twitterA(1, asLoadTex(u8"P/SNS/twitter.png", 1));
@@ -69,7 +70,7 @@ int32_t asMain()
 	//メインループ
 	while (as.loop())
 	{
-		bgA.draw(0,asWindowSize());
+		//bgA.draw(0,asWindowSize());
 		pet.move(food).ui.fpsUpdate().addSizeF(0.0001f,400.0f).addRota(0.0f).drawRF();
 		for (size_t i = 0; i < food.size(); ++i) {
 			//餌がウィンドウ外に出たら餌を消す
