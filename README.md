@@ -10,7 +10,7 @@ This is the source code of jellyfish training game
 
 |Android|FireOS|Windows|
 |:---:|:---:|:---:|
-|[![Google Play](https://github.com/Kasugaccho/Store/blob/master/AppLogo/Store/googleplay.png "Google Play")](https://play.google.com/store/apps/details?id=com.wanotaitei.jellyfish)|[![Amazon App](https://github.com/Kasugaccho/Store/blob/master/AppLogo/Store/amazonappstore.png "Amazon App")](https://www.amazon.com/gp/product/B07F5R9M9K)|[![Windows Store](https://github.com/Kasugaccho/Store/blob/master/AppLogo/Store/windowsstore.png "Windows Store")](https://www.amazon.com/gp/product/B07F5R9M9K)|
+|[![Google Play](https://github.com/Kasugaccho/Store/blob/master/AppLogo/Store/googleplay.png "Google Play")](https://play.google.com/store/apps/details?id=com.wanotaitei.jellyfish)|[![Amazon App](https://github.com/Kasugaccho/Store/blob/master/AppLogo/Store/amazonappstore.png "Amazon App")](https://www.amazon.com/gp/product/B07F5R9M9K)|[![Windows Store](https://github.com/Kasugaccho/Store/blob/master/AppLogo/Store/windowsstore.png "Windows Store")](https://www.dropbox.com/s/1gi63uttrs4m8oq/Jellyfish1.0.0.zip?dl=1)|
 
 ## License
 
