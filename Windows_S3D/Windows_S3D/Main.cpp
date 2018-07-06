@@ -53,7 +53,7 @@ int32_t asMain()
 	const AnimeMainData foodA(1, asLoadTex(u8"P/Pet/food.png", 1));
 	const AnimeMainData twitterA(1, asLoadTex(u8"P/SNS/twitter.png", 1));
 
-	PosA4F p_a4(50.0f, 50.0f, 100.0f, 100.0f);
+	PosA4F p_a4(300.0f, 300.0f, 100.0f, 100.0f);
 	//asReadPos(u8"Save/pet0.txt", p_a4);
 
 	//ペット
