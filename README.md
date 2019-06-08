@@ -18,11 +18,9 @@ These codes are licensed under CC0.
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png "CC0")](http://creativecommons.org/publicdomain/zero/1.0/deed.ja)
 
-## We want U!!
+## Contact
 
-This project recruiting developers.
-
-Email
-wanotaitei@gmail.com
-Twitter
-@wanotaitei
+|E-mail:|wanotaitei@gmail.com|
+|:---|:---|
+|![svg](https://Kasugaccho.github.io/DungeonPicture/Picture/as_logo.svg)|Made by **As Project**.|
+|![gaccho](https://Kasugaccho.github.io/DungeonPicture/Picture/gaccho_icon.svg)|Made by Gaccho.|
